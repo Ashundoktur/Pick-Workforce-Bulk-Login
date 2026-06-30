@@ -5,6 +5,8 @@
 // @description  Adds a persistent bulk login input box.
 // @author       Barak Rutherford
 // @match        https://picking-console.na.picking.aft.a2z.com/fc/RIC2/pick-workforce
+// @updateURL    https://github.com/Ashundoktur/Pick-Workforce-Bulk-Login.git
+// @downloadURL  https://github.com/Ashundoktur/Pick-Workforce-Bulk-Login/archive/refs/heads/main.zip
 // @grant        none
 // ==/UserScript==
 
